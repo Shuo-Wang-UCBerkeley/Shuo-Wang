@@ -1,6 +1,6 @@
 # About
 
-Hi, I'm Hailee — an experienced analyst and researcher with an academic background in global public health. My professional experience includes usage of real-world data within the pharmaceutical/medical device and healthcare industries. I recently completed my master's degree in Information and Data Science at UC Berkeley. My skillset encompasses data analytics, exploratory data analysis (EDA), model building, project management, and the ability to articulate insights to diverse audiences. My goal is to enhance transparency in the machine learning workflow through statistical rigor and thoughtful engineering.
+Hi, I'm Shuo Wang — an experienced analyst and researcher with an academic background in global public health. My professional experience includes usage of real-world data within the pharmaceutical/medical device and healthcare industries. I recently completed my master's degree in Information and Data Science at UC Berkeley. My skillset encompasses data analytics, exploratory data analysis (EDA), model building, project management, and the ability to articulate insights to diverse audiences. My goal is to enhance transparency in the machine learning workflow through statistical rigor and thoughtful engineering.
 
 
 # Featured Projects
