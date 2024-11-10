@@ -14,7 +14,7 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 ## NLP Model for Toxic Comment Detection
 - **Description:** Predict 
 - **Technologies Used:** Google Colab, TensorFlow, Neural Networks, Keras, Scikit-Learn
-- **Link:** https://github.com/Shuo-Wang-UCBerkeley/2024-spring-assignment-W266-NLP_Final_Project
+- **Link:** [Text Classification on Toxic Comments](https://github.com/Shuo-Wang-UCBerkeley/2024-spring-assignment-W266-NLP_Final_Project)
 
 ## DistilBERT API Deployment
 - **Description:** Develop 
@@ -46,7 +46,6 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 ## Voting Difficulty Analysis Project 
 - **Description:** Assess 
 - **Technologies Used:** R (tidyverse, tsibble, forecast, ggplot), Python, Statistical Analysis, Wilcoxon Test
-- **Link:** https://github.com/haschuele/CO2
 
 
 # Contact
