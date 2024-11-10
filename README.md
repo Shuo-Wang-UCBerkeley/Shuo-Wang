@@ -54,4 +54,4 @@ Feel free to reach out to me via email at wshuo87@gmail.com or connect with me o
 
 # Resume
 
-Check out my [resume](https://github.com/haschuele/Resume/blob/main/Hailee_Schelble_Resume.pdf) for an overview of my skills, work experience, and education.
+Check out my [resume](https://github.com/Shuo-Wang-UCBerkeley/Resume/blob/main/Resume-Shuo_Wang.pdf) for an overview of my skills, work experience, and education.
