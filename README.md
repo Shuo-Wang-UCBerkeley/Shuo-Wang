@@ -37,7 +37,7 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 ## Data Analysis and Engineering for a Hypothetical Restaurant 
 - **Description:** Assess 
 - **Technologies Used:** SQL, Neo4j, Relational Databases
-- **Link:** https://github.com/haschuele/CO2
+- **Link:** https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project
 
 ## CO2 Emissions Analysis 
 - **Description:** Assess historical model (Keeling Curve) performance and project future CO2 concentrations
