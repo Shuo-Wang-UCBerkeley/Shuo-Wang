@@ -17,7 +17,7 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 - **Link:** https://github.com/Shuo-Wang-UCBerkeley/Text-Classification
 
 ## DistilBERT API Deployment
-- **Description:** Develop 
+- **Description:** Designed and implemented a FastAPI application to serve prediction of an NLP model using DistilBERT from HuggingFace for sentiment analysis. Orchestrated the deployment of the application in Azure Kubernetes Service (AKS).  
 - **Technologies Used:** FastAPI, Docker, Azure, Kubernetes, Redis, Poetry, Istio, Kustomize, Grafana, CI/CD
 - **Link:** https://github.com/Shuo-Wang-UCBerkeley/DistilBERT-API-Deployment
 
