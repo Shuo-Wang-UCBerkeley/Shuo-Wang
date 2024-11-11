@@ -1,6 +1,6 @@
 # About
 
-Hi, I'm Shuo Wang — with 2 years of experience in AI/ML including large language models (LLM), natural language processing (NLP), deep learning, and model development and deployment. I also have 8 years leading teams and managing Communicating and projects.
+Hi, I'm Shuo Wang — 2 years of experience in AI/ML including large language models (LLM), natural language processing (NLP), deep learning, and model development and deployment. I also have 8 years leading teams and managing Communicating and projects.
 Currently seeking to transition into a Machine Learning Engineer or Data Science role.
 
 
