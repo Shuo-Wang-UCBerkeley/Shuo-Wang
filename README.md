@@ -14,21 +14,22 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 ## NLP Model for Toxic Comment Detection
 - **Description:** Predict 
 - **Technologies Used:** Google Colab, TensorFlow, Neural Networks, Keras, Scikit-Learn
-- **Link:** [Text Classification on Toxic Comments](https://github.com/Shuo-Wang-UCBerkeley/2024-spring-assignment-W266-NLP_Final_Project)
+- **Link:** https://github.com/Shuo-Wang-UCBerkeley/Text-Classification
 
 ## DistilBERT API Deployment
 - **Description:** Develop 
 - **Technologies Used:** FastAPI, Docker, Azure, Kubernetes, Redis, Poetry, Istio, Kustomize, Grafana, CI/CD
-- **Link:** https://github.com/Shuo-Wang-UCBerkeley/2023-fall-assignment-W255-Full-End-to-End-Machine-Learning-API-Final-Project
+- **Link:** https://github.com/Shuo-Wang-UCBerkeley/DistilBERT-API-Deployment
 
 ## Predicting Flight Delays
 - **Description:** Predict departure delays greater than 15 minutes, 2 hours before takeoff
 - **Technologies Used:** PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce
-- **Link:** https://github.com/Shuo-Wang-UCBerkeley/2023-summer-assignment-W261-Flight-Delay-Prediction-Final_Project
+- **Link:** https://github.com/Shuo-Wang-UCBerkeley/FlightDelay
 
 ## Spotify Song Genre Prediction
 - **Description:** Assess 
 - **Technologies Used:** Kaggle, Python, Scikit-Learn, Keras
+- **Link:** https://github.com/Shuo-Wang-UCBerkeley/Song-Genre
 
 ## Fashion MNIST Multi-Class Classification 
 - **Description:** Assess 
@@ -37,7 +38,7 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 ## Data Analysis and Engineering for a Hypothetical Restaurant 
 - **Description:** Assess 
 - **Technologies Used:** SQL, Neo4j, Relational Databases
-- **Link:** https://github.com/Shuo-Wang-UCBerkeley/2022-summer-assignment-W205-Increasing-AGM-Brand-Awareness-Final_Project
+- **Link:** https://github.com/Shuo-Wang-UCBerkeley/AGM-Brand
 
 ## CO2 Emissions Analysis 
 - **Description:** Assess historical model (Keeling Curve) performance and project future CO2 concentrations
