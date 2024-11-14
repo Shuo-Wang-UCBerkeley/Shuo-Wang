@@ -45,7 +45,7 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 - **Technologies Used:** R (tidyverse, tsibble, forecast, ggplot), Python
 
 ## Voting Difficulty Analysis Project 
-- **Description:** Investigate into voter difficulties between two Parties' voters in the 2020 Election.
+- **Description:** Evaluate which Party voters experience more difficulty voting in the 2020 Election.
     -   Led a statistical investigation into voter difficulties between Democratic and Republican voters during the 2020 U.S. election, utilizing the American National Election Studies data consisting of over 8,000 survey responses.
     -   Applied a non-parametric Wilcoxon rank-sum test to rigorously compare voting difficulties.
     -   Defined a novel metric for voter difficulty that included both voters and those who intended but failed to vote, enhancing the breadth of the analysis.
