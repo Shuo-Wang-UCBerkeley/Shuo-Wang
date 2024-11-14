@@ -7,12 +7,12 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 # Featured Projects
 
 ## Very Intelligent Portfolio (Capstone Project)
-- **Description:** Developed an open-source Transformer-based tool to optimize portfolio weights and recommend hedging strategies 
+- **Description:** Developed VIP, an open-source Transformer-based tool to optimize portfolio weights and recommend hedging strategies. VIP democratizes advanced investment techniques, empowering both employees with vested stock and retail investors to better manage their financial futures. 
 - **Technologies Used:** Python (sklearn, pandas, numpy, seaborn), Amazon SageMaker, S3, Kubernetes, PyTorch, Azure, JupyterLab
 - **Link:** https://very-intelligent-portfolio.github.io
 
 ## NLP Model for Toxic Comment Detection
-- **Description:** Predict 
+- **Description:** Utilized advanced NLP techniques to build transformer-based models (including BART, BERT, DistilBERT, ALBERT, and RoBERTa) for toxic comment detection.  
 - **Technologies Used:** Google Colab, TensorFlow, Neural Networks, Keras, Scikit-Learn
 - **Link:** https://github.com/Shuo-Wang-UCBerkeley/Text-Classification
 
