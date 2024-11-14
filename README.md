@@ -47,6 +47,10 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 ## Voting Difficulty Analysis Project 
 - **Description:** Investigate into voter difficulties between two Parties' voters in the 2020 Election.
     -   Applied a non-parametric Wilcoxon rank-sum test to rigorously compare voting difficulties.
+    -   Defined a novel metric for voter difficulty that included both voters and those who intended but failed to vote, enhancing the breadth of the analysis.
+    -   Applied a non-parametric Wilcoxon rank-sum test to rigorously compare voting difficulties.
+    -   Identified a meaningful difference in difficulty levels that may influence election outcomes, advocating for targeted political strategies to alleviate voting barriers.
+    
 - **Technologies Used:** R (tidyverse, tsibble, forecast, ggplot), Python, Statistical Analysis, Wilcoxon Test
 
 
