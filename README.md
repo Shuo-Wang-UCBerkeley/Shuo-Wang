@@ -45,6 +45,12 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 
 ## CO2 Emissions Analysis 
 - **Description:** Assess historical model (Keeling Curve) performance and project future CO2 concentrations
+    -	Conducted an extensive analysis of car transmission impacts on CO2 emissions using Agency (VCA) data (2000-2013).
+    -	Analyzed over 7,000 entries after data cleaning to establish correlations between transmission types, fuel types, and engine capacities with CO2 emissions. Consolidated data by car models to remove bias due to repetition.
+    -	Employed linear regression to demonstrate that diesel-fueled and manual transmission vehicles emit significantly less CO2.
+    -	Identified potential model limitations including collinearity and omitted variables such as the drag coefficient and improvements in transmission technology.
+    -	Explored the impact of regulatory and technological changes over time, highlighting potential shifts in the relationship between transmission type and emissions in recent years.
+
 - **Technologies Used:** R (tidyverse, tsibble, forecast, ggplot), Python
 
 ## Voting Difficulty Analysis Project 
