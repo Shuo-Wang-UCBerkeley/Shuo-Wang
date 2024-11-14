@@ -33,6 +33,9 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 
 ## Fashion MNIST Multi-Class Classification 
 - **Description:** Develop Nerual Network model for Fashion MNIST images multi-class classification. 
+•	Processed 60K data points from Fashion MNIST dataset that includes 784 features (a 28*28 greyscale image) and a label from 10 classes. Visualized summary statistics of the features using Python Seaborn.
+•	Developed a Neural Network model with three hidden layers and tuned the model with various activation functions (e.g., Tanh, ReLu) and optimizers (e.g., Adam, SGD) using Python TensorFlow, achieving an impressive 99% testing accuracy.
+
 - **Technologies Used:** Python, TensorFlow, Neural Networks
 
 ## Data Analysis and Engineering for a Hypothetical Restaurant 
