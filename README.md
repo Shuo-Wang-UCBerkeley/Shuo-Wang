@@ -44,7 +44,7 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 - **Link:** https://github.com/Shuo-Wang-UCBerkeley/AGM-Brand
 
 ## CO2 Emissions Analysis 
-- **Description:** Assess historical model (Keeling Curve) performance and project future CO2 concentrations
+- **Description:** Car Transmission vs CO2 Emissions
     -	Conducted an extensive analysis of car transmission impacts on CO2 emissions using Agency (VCA) data (2000-2013).
     -	Analyzed over 7,000 entries after data cleaning to establish correlations between transmission types, fuel types, and engine capacities with CO2 emissions. Consolidated data by car models to remove bias due to repetition.
     -	Employed linear regression to demonstrate that diesel-fueled and manual transmission vehicles emit significantly less CO2.
