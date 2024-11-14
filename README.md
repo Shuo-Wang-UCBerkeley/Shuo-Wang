@@ -7,17 +7,17 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 # Featured Projects
 
 ## Very Intelligent Portfolio (Capstone Project)
-- **Description:** Developed VIP, an open-source Transformer-based tool to optimize portfolio weights and recommend hedging strategies. VIP democratizes advanced investment techniques, empowering both employees with vested stock and retail investors to better manage their financial futures. 
+- **Description:** Develope an open-source Transformer-based tool to optimize portfolio weights and recommend hedging strategies.  
 - **Technologies Used:** Python (sklearn, pandas, numpy, seaborn), Amazon SageMaker, S3, Kubernetes, PyTorch, Azure, JupyterLab
 - **Link:** https://very-intelligent-portfolio.github.io
 
 ## NLP Model for Toxic Comment Detection
-- **Description:** Utilized advanced NLP techniques to build transformer-based models (including BART, BERT, DistilBERT, ALBERT, and RoBERTa) for toxic comment detection.  
+- **Description:** Utilize advanced NLP techniques to build transformer-based models (including BART, BERT, DistilBERT, ALBERT, and RoBERTa) for toxic comment detection.  
 - **Technologies Used:** Google Colab, TensorFlow, Neural Networks, Keras, Scikit-Learn
 - **Link:** https://github.com/Shuo-Wang-UCBerkeley/Text-Classification
 
 ## DistilBERT API Deployment
-- **Description:** Designed and implemented a FastAPI application to serve prediction of an NLP model using DistilBERT from HuggingFace for sentiment analysis. Orchestrated the deployment of the application in Azure Kubernetes Service (AKS).  
+- **Description:** Design and implement a FastAPI application to serve prediction of an NLP model using DistilBERT from HuggingFace for sentiment analysis. Orchestrate the deployment of the application in Azure Kubernetes Service (AKS).  
 - **Technologies Used:** FastAPI, Docker, Azure, Kubernetes, Redis, Poetry, Istio, Kustomize, Grafana, CI/CD
 - **Link:** https://github.com/Shuo-Wang-UCBerkeley/DistilBERT-API-Deployment
 
@@ -27,16 +27,16 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 - **Link:** https://github.com/Shuo-Wang-UCBerkeley/FlightDelay
 
 ## Spotify Song Genre Prediction
-- **Description:** Assess 
+- **Description:** Develop automated genre classification models and enhance user app experience. 
 - **Technologies Used:** Kaggle, Python, Scikit-Learn, Keras
 - **Link:** https://github.com/Shuo-Wang-UCBerkeley/Song-Genre
 
 ## Fashion MNIST Multi-Class Classification 
-- **Description:** Assess 
+- **Description:** Develop Nerual Network model for Fashion MNIST images multi-class classification. 
 - **Technologies Used:** Python, TensorFlow, Neural Networks
 
 ## Data Analysis and Engineering for a Hypothetical Restaurant 
-- **Description:** Assess 
+- **Description:** Increase Acme Gourmet Meals brand awareness beyond the local Berkeley neighborhood by identifying top customers, calculating nearest BART station, and deploying pickup/delivery service. 
 - **Technologies Used:** SQL, Neo4j, Relational Databases
 - **Link:** https://github.com/Shuo-Wang-UCBerkeley/AGM-Brand
 
@@ -45,7 +45,8 @@ Currently seeking to transition into a Machine Learning Engineer or Data Science
 - **Technologies Used:** R (tidyverse, tsibble, forecast, ggplot), Python
 
 ## Voting Difficulty Analysis Project 
-- **Description:** Assess 
+- **Description:** Investigate into voter difficulties between two Parties' voters in the 2020 Election.
+    -   Applied a non-parametric Wilcoxon rank-sum test to rigorously compare voting difficulties.
 - **Technologies Used:** R (tidyverse, tsibble, forecast, ggplot), Python, Statistical Analysis, Wilcoxon Test
 
 
